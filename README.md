@@ -11,8 +11,8 @@
 - Wenxin Yiyan 
 - Bing Chat
 - ChatGLM 
-- You
-- Chatsonic
+- You - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
+- Chatsonic -  https://app.writesonic.com/
 - Alpaca
 - Vincuna
 - Claude
