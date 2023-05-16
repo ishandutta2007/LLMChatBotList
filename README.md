@@ -13,7 +13,7 @@
 | Forefront | https://chat.forefront.ai |--|--| B | 
 | Openai Playground | https://platform.openai.com/playground |--|--| B |
 | Wenxin Yiyan |-- |--|--| B |
-| Bing Chat |-- |--|--| B |
+| Bing Chat | https://bing.com |--|--| B |
 | ChatGLM  |-- |--|--| B |
 | You | https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat|--|--| B |
 | Chatsonic |  https://app.writesonic.com |--|--| B |
