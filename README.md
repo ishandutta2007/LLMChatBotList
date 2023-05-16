@@ -22,3 +22,9 @@
 - MOSS
 - iFlytek Spark
 - ERNIE
+
+
+| ChatBot       | URL           | Parameter  | Tokens  | Output Quality
+| ------------- |:---------------------------:| -----:| ------:|------:|
+| ChatGPT | https://chat.openai.com |--|--| A |
+| BARD | https://bard.google.com |--|--| A |
