@@ -26,3 +26,5 @@
 | MOSS |-- |--|--| B |
 | iFlytek Spark |-- |--|--| B |
 | ERNIE |-- |--|--| B |
+| IM-sys |https://chat.lmsys.org |--|--| B |
+
