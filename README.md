@@ -2,7 +2,7 @@
 
 - ChatGPT - https://chat.openai.com/
 - BARD - https://bard.google.com/
-- Ppen Assistant -  https://open-assistant.io/chat
+- Open Assistant -  https://open-assistant.io/chat
 - Huggingface -  https://huggingface.co/chat
 - POE -  https://poe.com/ChatGPT
 - AI21 - https://studio.ai21.com/overview
