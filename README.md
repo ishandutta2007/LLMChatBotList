@@ -15,6 +15,7 @@
 - Chatsonic -  https://app.writesonic.com/
 - Alpaca
 - Vincuna
+- Stable Vicuna - https://huggingface.co/spaces/CarperAI/StableVicuna
 - Claude
 - ChatGLM
 - MOSS
