@@ -15,6 +15,7 @@
 | Wenxin Yiyan |-- |--|--|--| B |
 | Bing Chat | https://bing.com |--|--|--| B |
 | ChatGLM  |-- |--|--|--| B |
+| Phind | phind.com|-- |--|--|--| B |
 | You | https://you.com/search?q=you.com&tbm=youchat&cfr=chat|--|--|--| B |
 | Chatsonic |  https://app.writesonic.com |--|--|--| B |
 | OpenChatKit | https://huggingface.co/spaces/togethercomputer/OpenChatKit |--|--|-- | B |
