@@ -13,6 +13,7 @@
 - ChatGLM 
 - You - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
 - Chatsonic -  https://app.writesonic.com/
+- OpenChatKit - https://huggingface.co/spaces/togethercomputer/OpenChatKit
 - Alpaca
 - Vincuna
 - Stable Vicuna - https://huggingface.co/spaces/CarperAI/StableVicuna
