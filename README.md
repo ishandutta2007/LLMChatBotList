@@ -4,7 +4,7 @@
 
 | ChatBot       | URL           | Parameter  | Tokens  | Source Code |Output Quality |Pricing|
 | ------------- |:---------------------------:| -----:| ------:|------:|------:|------:|
-| ChatGPT | https://chat.openai.com |--|--|--| A |$0.03 / 1K tokens(GPT4) or $0.002 / 1K tokens(GPT3.5)
+| ChatGPT | https://chat.openai.com |1T|32K|--| A |$0.03 / 1K tokens(GPT4) or $0.002 / 1K tokens(GPT3.5)
 | BARD | https://bard.google.com |--|--|--| A |
 | Open Assistant |  https://open-assistant.io/chat |--|--|--| B |
 | Huggingface |  https://huggingface.co/chat |--|--|--| B |
